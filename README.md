@@ -21,7 +21,7 @@ In that file, write a program that outputs the following:
  o | x | o 
  ```
  
- * Create a python file called **seus.py** and upload it to this repo.
+ * Create a python file called **seuss.py** and upload it to this repo.
  
  In that file, write a program that outputs the following:
  
